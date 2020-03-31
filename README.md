@@ -1,8 +1,11 @@
 # Planogramas
 
 •	Seccion electricidad 80%
+
 •	Instalacion sanitario 5%
+
 •	Ferreteria 5%
+
 •	Maquinaria 5%
 •	Pintura/menaje 2%
 •	Ordenacion 0%
