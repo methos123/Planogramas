@@ -1,6 +1,6 @@
 # Planogramas
 
-•	Seccion electricidad 80%
+•	Seccion electricidad 90%
 
 •	Instalacion sanitario 5%
 
