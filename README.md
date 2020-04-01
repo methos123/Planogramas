@@ -16,13 +16,13 @@
 
 •	Madera 2%
 
-•	Jardin IA 0%
+•	Jardin IA 1%
 
 •	Jardin Trendy 0%
 
 •	Cocinas 0%
 
-•	Jardin IC 1%
+•	Jardin IC 0%
 
 •	Drive 0%
 
